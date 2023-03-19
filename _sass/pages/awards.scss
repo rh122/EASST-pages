@@ -1,0 +1,65 @@
+#awards-timeline {
+    max-width: 800px;
+    margin: 0 auto;
+  
+    .timeline-item {
+      position: relative;
+      padding: 40px 20px;
+      border-left: 2px solid #ccc;
+  
+      &:before {
+        content: "";
+        position: absolute;
+        top: 20px;
+        left: -10px;
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        background-color: #ccc;
+      }
+  
+      &:last-child {
+        border: none;
+  
+        &:before {
+          display: none;
+        }
+      }
+  
+      h3 {
+        margin-top: 0;
+      }
+  
+      p {
+        margin-bottom: 0;
+      }
+  
+      .timeline-year {
+        position: absolute;
+        top: 0;
+        left: -80px;
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+        background-color: #ccc;
+        color: #fff;
+        text-align: center;
+        line-height: 60px;
+        font-weight: bold;
+        font-size: 1.2rem;
+      }
+  
+      &:nth-child(even) {
+        border-left-color: #007bff;
+  
+        &:before {
+          background-color: #007bff;
+        }
+  
+        .timeline-year {
+          background-color: #007bff;
+        }
+      }
+    }
+  }
+  

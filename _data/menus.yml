@@ -11,6 +11,12 @@ main:
   - name: "Contact"
     url: "/contact/"
     weight: 5
+  - name: "Awards"
+    url: "/awards/"
+    weight: 6
+    subitems:
+    - name: "Grid"
+      url: "/"
 
 footer:
   - name: "Home"

@@ -1,10 +1,65 @@
-<div id="main-menu" class="main-menu">
+<nav class="main-menu" id="main-menu">
   {% assign mainmenu = site.data.menus.main | sort: 'weight'  %}
-  <ul>
+  <ul class="menu">
     {% for item in mainmenu %}
-    <li class="{% if item.url == page.url %}active{% endif %}">
-      <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
+    <li class="menu-item{% if item.url == page.url %} active{% endif %}">
+      <a href="{{ item.url | relative_url }}" class="menu-link">{{ item.name }}</a>
+      {% if item.subitems %}
+      <ul class="submenu">
+        {% for subitem in item.subitems %}
+        <li class="submenu-item{% if subitem.url == page.url %} active{% endif %}">
+          <a href="{{ subitem.url | relative_url }}" class="submenu-link">{{ subitem.name }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+      {% endif %}
     </li>
     {% endfor %}
   </ul>
-</div>
+</nav>
+
+<style>
+  .menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .menu-item {
+    display: inline-block;
+    position: relative;
+  }
+
+  .menu-link {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+  }
+
+  .submenu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    margin-top: 5px;
+    min-width: 200px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    z-index: 1;
+  }
+
+  .submenu-item {
+    display: block;
+  }
+
+  .submenu-link {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: #333;
+  }
+
+  .menu-item:hover > .submenu {
+    display: block;
+  }
+</style>
