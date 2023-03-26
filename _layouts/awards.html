@@ -1,7 +1,30 @@
 ---
 layout: default
-bodyClass: page-services-list
+bodyClass: page-awards-list
 ---
+<style>
+  ul.navbar-horizontal {
+    list-style: none;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+  }
+  .nav-item-equal {
+    display: inline-block;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    margin-top: 1rem
+  }
+</style>
+
+<ul class="navbar-nav navbar-horizontal">
+  {% assign weighted_awards = site.awards | sort: "weight" %}
+  {% for award in weighted_awards %}
+    <li class="nav-item nav-item-equal">
+      <a class="nav-link" href="{{ award.url | relative_url }}">{{ award.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 <div class="intro">
   <div class="container">
@@ -17,5 +40,8 @@ bodyClass: page-services-list
     </div>
   </div>
 </div>
+>
+
+
 
 

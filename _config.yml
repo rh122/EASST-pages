@@ -19,6 +19,9 @@ collections:
     sort_by: weight
   team:
     output: true
+  awards:
+    output: true
+    sort_by: weight
 
 defaults:
   - scope:
