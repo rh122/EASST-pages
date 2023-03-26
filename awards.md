@@ -1,9 +1,12 @@
 ---
 title: Awards
+
+layout: awards
 intro_image: "images/illustrations/home.jpg"
 
-layout: page
-bodyClass: page-awards
+
+
+
 ---
 
 ## AWARDS for the Best Software Science Papers presented at the European Joint Conferences on Theory and Practice of Software
