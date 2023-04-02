@@ -1,11 +1,16 @@
 main:
-  - name: "Services"
+  - name: "Home"
+    url: "/"
+  - name: "EASST Boards"
+    url: "/"
+    weight: 1
+  - name: "Membership"
     url: "/services/"
     weight: 2
-  - name: "Team"
+  - name: "NewsLetter"
     url: "/team/"
     weight: 3
-  - name: "About"
+  - name: "Events"
     url: "/about/"
     weight: 4
   - name: "Contact"

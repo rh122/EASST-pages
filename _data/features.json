@@ -1,17 +1,20 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
-    "image": "images/features/noun_branding_1885335.svg"
+    "title": "Who We Are",
+    "description": "EASST is a European non-profit Association that aims at promoting research, development and applications in the area of systematic and rigorous engineering of software and systems.",
+    "image": "images/features/noun_branding_1885335.svg",
+    "link": "/awards/"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
-    "image": "images/features/noun_The Process_1885341.svg"
+    "title": "What are our aims",
+    "description": "Software and Systems Engineering does not receive the public recognition it deserves as one of the most advanced technologies with a great impact on Europe‘s economic and societel prosperity. ",
+    "image": "images/features/noun_The Process_1885341.svg",
+    "link": "/awards/"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
-    "image": "images/features/noun_3d modeling_1885342.svg"
+    "title": "How do you benefit",
+    "description": " When joining us: You enter a larger community and you will help to strengthen a new association that is aiming at a better visibility and recognition of your work.",
+    "image": "images/features/noun_3d modeling_1885342.svg",
+    "link": "/awards/"
   }
 ]

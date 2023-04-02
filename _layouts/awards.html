@@ -17,7 +17,7 @@ bodyClass: page-awards-list
   }
 </style>
 
-<ul class="navbar-nav navbar-horizontal">
+<ul class="navbar-nav navbar-horizontal" style="margin-left: 40px;">
   {% assign weighted_awards = site.awards | sort: "weight" %}
   {% for award in weighted_awards %}
     <li class="nav-item nav-item-equal">
@@ -40,7 +40,7 @@ bodyClass: page-awards-list
     </div>
   </div>
 </div>
->
+
 
 
 

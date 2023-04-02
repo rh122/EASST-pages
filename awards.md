@@ -2,7 +2,7 @@
 title: Awards
 
 layout: awards
-intro_image: "images/illustrations/home.jpg"
+intro_image: "images/illustrations/award.jpg"
 
 ---
 

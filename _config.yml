@@ -1,9 +1,9 @@
 baseurl: '/'
 permalink: pretty
-title: 'UOL ESSAT'
+title: 'EASST'
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
+  mobile: "images/logo/logo.png"
   mobile_height: "32px"
   mobile_width: "32px"
   desktop: "images/logo/logo.png"
