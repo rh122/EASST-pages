@@ -26,11 +26,11 @@ layout: awards
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Marcus Gerhold and Marielle Stoelinga: Model-Based Testing of Probabilistic Systems
 
- Veronique Cortier, Antoine Dallon and Stephanie Delaune: Bounding the Number of Agents, for Equivalence too
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Veronique Cortier, Antoine Dallon and Stephanie Delaune: Bounding the Number of Agents, for Equivalence too
 
 2017
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Valentin Wüstholz, Oswaldo Olivo, Marijn J. H. Heule, and Isil Dillig: Static Detection of DoS          ·     Vulnerabilities in Programs that use Regular Expressions
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Valentin Wüstholz, Oswaldo Olivo, Marijn J. H. Heule, and Isil Dillig: Static Detection of DoS    Vulnerabilities in Programs that use Regular Expressions
 
 2018
 
@@ -50,7 +50,7 @@ layout: awards
 
 2022
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ezio Bartocci, Thomas Ferrère, Thomas Henzinger, Dejan Nickovic and Ana Oliveira Da Costa: Information-flow Interfaces
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ezio Bartocci, Thomas Ferrère, Thomas Henzinger, Dejan Nickovic and Ana     Oliveira Da Costa: Information-flow Interfaces
 <br>
 <br>
 
