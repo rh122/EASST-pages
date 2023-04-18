@@ -58,11 +58,7 @@ layout  : default
     <td>padb...@informatik.haw-hamburg.de</td>
   </tr>
 
-  <tr>
-    <td></td>
-    <td>Hartmut Ehrig</td>
-    <td>ehr...@cs.tu-berlin.de</td>
-  </tr>
+  
   <tr>
     <td></td>
     <td>Marie-Claude Gaudel</td>
