@@ -27,7 +27,7 @@ The tasks of the PC Chairs are the following, in the given order:
 - In case of co-chairs, decide who will be a member of the ETAPS SC for each of the three years of appointment.
 - Submit the following three proposals to the FASE SC:
   - A list of PC members, including some possible replacements in case some of the proposed members decline the invitation.
-  - A call for papers.
+  - A call for papers
   - An invited speaker, indicating also a possible replacement.
 - Once the FASE SC approves them, submit them to the ETAPS SC.
 - Once the ETAPS SC approves them, start inviting the PC members and the speaker.
