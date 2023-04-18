@@ -1,76 +1,49 @@
 ---
-title: Awards
+title  : Awards
 
-layout: awards
-intro_image: "images/illustrations/award.jpg"
+layout  : awards
+intro_image  : "images/illustrations/award.jpg"
 
 ---
-
-## AWARDS for the Best Software Science Papers presented at the European Joint Conferences on Theory and Practice of Software
-
+## Events sponsored or endorsed by EASST can request for EASST best paper awards.
 
 
-2022
-### Ezio Bartocci, Thomas Ferrère, Thomas Henzinger, Dejan Nickovic and Ana Oliveira Da Costa
- <span style="color: black;">Information-flow Interfaces </span>
-  
+2022  :
 
-2021
-### Richard Schumi and Jun Sun
-<span style="color: black;">SpecTest: Specification-Based Compiler Testing  </span>
+- Ezio Bartocci, Thomas Ferrère, Thomas Henzinger, Dejan Nickovic, and Ana Oliveira Da Costa  : <i>Information-flow Interfaces</i>
 
 
-2020
-### Florian Frohn
- <span style="color: black;">A Calculus for Modular Loop Acceleration </span>
+2021  :
 
+- Richard Schumi and Jun Sun  : <i>SpecTest  : Specification-Based Compiler Testing</i>
 
+2020  :
 
+- Florian Frohn  : <i>A Calculus for Modular Loop Acceleration</i>
 
-2019
-### Søren Enevoldsen, Kim Guldstrand Larsen and Jiří Srba
- 
- <span style="color: black;">Abstract Dependency Graphs and Their Application to Model Checking </span>
+2019  :
 
+- Søren Enevoldsen, Kim Guldstrand Larsen, and Jiří Srba  : <i>Abstract Dependency Graphs and Their Application to Model Checking</i>
 
+2018  :
 
+- Márton Búr, Gábor Szilágyi, András Vörös, and Daniel Varro  : <i>Distributed Graph Queries for Runtime Monitoring of Cyber-Physical Systems</i>
 
-2018
-### Márton Búr, Gábor Szilágyi, András Vörös and Daniel Varro
-<span style="color: black;">Distributed Graph Queries for Runtime Monitoring of Cyber-Physical Systems  </span>
+2017  :
 
+- Valentin Wüstholz, Oswaldo Olivo, Marijn J. H. Heule, and Isil Dillig  : <i>Static Detection of DoS Vulnerabilities in Programs that use Regular Expressions</i>
 
+2016  :
 
+- Marcus Gerhold and Marielle Stoelinga  : <i>Model-Based Testing of Probabilistic Systems</i>
+- Veronique Cortier, Antoine Dallon, and Stephanie Delaune  : <i>Bounding the Number of Agents, for Equivalence too</i>
 
+2015  :
 
-2017
-### Valentin Wüstholz, Oswaldo Olivo, Marijn J. H. Heule, and Isil Dillig
- <span style="color: black;">Static Detection of DoS Vulnerabilities in Programs that use Regular Expressions </span>
+- Mirco Giacobbe, Călin C. Guet, Ashutosh Gupta, Thomas A. Henzinger, Tiago Paixão, and Tatjana Petrov  : <i>Model checking Gene Regulatory Networks</i>
 
+2014  :
 
-
-
-
-2016
-### Model-Based Testing of  Probabilistic Systems
-<span style="color: black;">Marcus Gerhold and Marielle Stoelinga  </span>
-
-
-### Veronique Cortier, Antoine Dallon and Stephanie Delaune
- <span style="color: black;">Bounding the Number of Agents, for Equivalence too  </span>
-
-
-2015
-### Model checking Gene Regulatory Networks 
-
- <span style="color: black;">Mirco Giacobbe, Călin C. Guet, Ashutosh Gupta, Thomas A. Henzinger, Tiago Paixão, and Tatjana Petrov</span>
-
-
-
-2014
-### Christian Von Essen and Dimitra Giannakopoulou
-<span style="color: black;">Analyzing the Next Generation Airborne Collision Avoidance System </span>
-
-
+- Christian Von Essen and Dimitra Giannakopoulou  : <i>Analyzing the Next Generation Airborne Collision Avoidance System</i>
 
 

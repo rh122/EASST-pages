@@ -2,16 +2,14 @@ main:
   - name: "Home"
     url: "/"
   - name: "EASST Boards"
-    url: "/"
+    url: "/boards"
     weight: 1
-  - name: "Membership"
-    url: "/services/"
+  - name: "Statues"
+    url: "/statues/"
     weight: 2
-  - name: "NewsLetter"
-    url: "/team/"
-    weight: 3
-  - name: "Events"
-    url: "/about/"
+ 
+  - name: "Fase"
+    url: "/fase/"
     weight: 4
   - name: "Contact"
     url: "/contact/"

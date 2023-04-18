@@ -1,0 +1,52 @@
+---
+title: Jekyll Serif - Jekyll Small Business Theme
+layout: default
+bodyClass: page-home
+---
+<head>
+  <!-- Add this link to include Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<style>
+.scroll-to-bottom {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  font-size: 24px;
+  color: #333;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+  z-index: 9999;
+
+}
+.scroll-to-bottom:hover {
+  transform: scale(1.2);
+}
+
+.fa-arrow-down {
+  transform: rotate(360deg); /* Update this line to rotate by 180 degrees */
+}
+
+
+
+</style>
+<a href="#bottom" class="scroll-to-bottom">
+    <i class="fas fa-arrow-down"></i>
+   </a>
+<div class="intro">
+  <div class="container">
+    <div class="row justify-content-start">
+      <div class="col-12 col-md-9 col-lg-9 order-2 order-md-1">
+        {{ content }}
+        {% if site.homepage.show_call_box %}
+          {% include call.html show_button=true %}
+        {% endif %}
+      </div>
+    
+    </div>
+  </div>
+</div>
+
+
+
+<div id="bottom"></div>

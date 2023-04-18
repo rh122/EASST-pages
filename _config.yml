@@ -22,6 +22,8 @@ collections:
   awards:
     output: true
     sort_by: weight
+  fase :
+    output: true
 
 defaults:
   - scope:

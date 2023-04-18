@@ -6,31 +6,19 @@ weight: 2
 intro_image: "images/illustrations/award.jpg"
 layout: awards
 ---
-The ICT Excellence Awards celebrate the innovative use of technology in transforming teaching and learning, while improving educational outcomes in Northern Ireland.
+#### Awards for the Best Software Science Papers presented at the International Conferences on Graph Transformation (ICGT)
 
-2016
-### Model-Based Testing of  Probabilistic Systems
-<span style="color: black;">Marcus Gerhold and Marielle Stoelinga  </span>
+2016  :
 
+- Marcus Gerhold and Marielle Stoelinga  : <i>Model-Based Testing of Probabilistic Systems</i>
+- Veronique Cortier, Antoine Dallon, and Stephanie Delaune  : <i>Bounding the Number of Agents, for Equivalence too</i>
 
-### Veronique Cortier, Antoine Dallon and Stephanie Delaune
- <span style="color: black;">Bounding the Number of Agents, for Equivalence too  </span>
+2015  :
 
+- Mirco Giacobbe, Călin C. Guet, Ashutosh Gupta, Thomas A. Henzinger, Tiago Paixão, and Tatjana Petrov  : <i>Model checking Gene Regulatory Networks</i>
 
-2015
-### Model checking Gene Regulatory Networks 
+2014  :
 
- <span style="color: black;">Mirco Giacobbe, Călin C. Guet, Ashutosh Gupta, Thomas A. Henzinger, Tiago Paixão, and Tatjana Petrov</span>
-
-
-
-2014
-### Christian Von Essen and Dimitra Giannakopoulou
-<span style="color: black;">Analyzing the Next Generation Airborne Collision Avoidance System </span>
-
-
-
-
-
+- Christian Von Essen and Dimitra Giannakopoulou  : <i>Analyzing the Next Generation Airborne Collision Avoidance System</i>
 
 

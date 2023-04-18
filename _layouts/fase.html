@@ -1,0 +1,74 @@
+---
+layout: default
+bodyClass: page-awards-list
+---
+<head>
+    <!-- Add this link to include Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<style>
+  ul.navbar-horizontal {
+    list-style: none;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+  }
+  .nav-item-equal {
+    display: inline-block;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    margin-top: 1rem
+  }
+  .scroll-to-bottom {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  font-size: 24px;
+  color: #333;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+  z-index: 9999;
+}
+
+.scroll-to-bottom:hover {
+  transform: scale(1.2);
+}
+
+.fa-arrow-down {
+  transform: rotate(360deg); /* Update this line to rotate by 180 degrees */
+}
+
+
+</style>
+<a href="#bottom" class="scroll-to-bottom">
+    <i class="fas fa-arrow-down"></i>
+  </a>
+  
+ 
+  
+
+<ul class="navbar-nav navbar-horizontal" style="margin-left: 40px;">
+  {% assign weighted_fase = site.fase | sort: "weight" %}
+  {% for fase in weighted_fase %}
+    <li class="nav-item nav-item-equal">
+      <a class="nav-link" href="{{ fase.url | relative_url }}">{{ fase.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<div class="intro">
+  <div class="container">
+    <div class="row justify-content-start">
+      <div class="col-12 col-md-10 col-lg-10 order-2 order-md-1">
+        {{ content }}
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+
+ <div id="bottom"></div>
+
+
+
