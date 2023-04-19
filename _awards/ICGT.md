@@ -7,6 +7,9 @@ intro_image: "images/illustrations/award.jpg"
 layout: awards
 ---
 #### Awards for the Best Software Science Papers presented at the International Conferences on Graph Transformation (ICGT)
+<a href="#bottom" >
+    <b>How to Nominate</b>
+  </a>
 
 2014:
 
@@ -37,5 +40,18 @@ layout: awards
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kristopher Brown, Evan Patterson, Tyler Hanks, and James Fairbanks: *Computational Category Theoretic Rewriting*
 
+<div id="bottom"></div>
 
+## Nominations
+<br>
+
+To nominate an ICGT paper for the EASST, the PC chairs should consult with the programme committee and suggest a suitable paper to be awarded. The paper should be of high quality and within the scope of EASST.
+
+ 
+
+The board will decide if these conditions are met and prepare a certificate to be handed over at the conference.
+
+ 
+
+Please contact Reiko Heckel  (rh122@leicester.ac.uk) with nominations or further questions
 

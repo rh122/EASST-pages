@@ -6,11 +6,11 @@ weight: 1
 intro_image: "images/illustrations/award.jpg"
 layout: awards
 ---
+<
+### Awards for the Best Software Science Papers presented at the European Joint Conferences on Theory and Practice of Software (ETAPS)
 <a href="#bottom" >
     <b>How to Nominate</b>
   </a>
-### Awards for the Best Software Science Papers presented at the European Joint Conferences on Theory and Practice of Software (ETAPS)
-
 
 
 
