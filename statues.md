@@ -26,13 +26,13 @@ layout  : statues
 
 **2.** The aim of the statute is in particular implemented through
 
-- Supporting and implementing measures for education and qualification
-- Counselling decision makers about required activities and measures
-- Informing the public about the importance and the meaning of technological developments
-- Organising and endorsing information exchange in professional circles
-- Coordinating initiatives, activities and projects via adequate measures
-- Organising and conducting conferences such as ETAPS and other professional meetings
-- Coordinating its own activities with the activities of other professional associations with the aim to establish a "European Association in Informatics".
+&nbsp;&nbsp;&nbsp; Supporting and implementing measures for education and qualification<br>
+&nbsp;&nbsp;&nbsp; Counselling decision makers about required activities and measures<br>
+&nbsp;&nbsp;&nbsp; Informing the public about the importance and the meaning of technological developments<br>
+&nbsp;&nbsp;&nbsp; Organising and endorsing information exchange in professional circles<br>
+&nbsp;&nbsp;&nbsp; Coordinating initiatives, activities and projects via adequate measures<br>
+&nbsp;&nbsp;&nbsp; Organising and conducting conferences such as ETAPS and other professional meetings<br>
+&nbsp;&nbsp;&nbsp; Coordinating its own activities with the activities of other professional associations with<br> &nbsp;&nbsp;&nbsp; the aim to establish a "European Association in Informatics".<br>
 
 ## Budget and Finances
 
@@ -40,10 +40,10 @@ layout  : statues
 
 **2.** The funds necessary for the fulfilment of the association’s aims may originate from:
 
-- Donations, other grants and revenues
-- Project grants
-- Earmarked funds
-- Membership fees and income from the association’s assets.
+&nbsp;&nbsp;&nbsp; Donations, other grants and revenues<br>
+&nbsp;&nbsp;&nbsp; Project grants<br>
+&nbsp;&nbsp;&nbsp; Earmarked funds<br>
+&nbsp;&nbsp;&nbsp; Membership fees and income from the association’s assets.<br>
 
 **3.** Nobody may benefit from expenditures that are extraneous to the aims of the association or from unreasonably high compensation.
 
@@ -65,9 +65,10 @@ The organs of the association are the Executive Board, the General Assembly and 
 
 **1.**  The Executive Board is composed of
 
-- a President
-- a Vice President
-- a Treasurer
+&nbsp;&nbsp;&nbsp;a President<br>
+&nbsp;&nbsp;&nbsp;a Vice President<br>
+&nbsp;&nbsp;&nbsp;a Treasurer<br>
+
 
 who are elected by the General Assembly for three-year terms.
 

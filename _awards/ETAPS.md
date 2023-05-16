@@ -8,9 +8,7 @@ layout: awards
 ---
 
 ### Awards for the Best Software Science Papers presented at the European Joint Conferences on Theory and Practice of Software (ETAPS)
-<a href="#bottom" >
-    <b>How to Nominate</b>
-  </a>
+
 
 
 
@@ -55,34 +53,3 @@ layout: awards
 <br>
 
 
-<div id="bottom"></div>
-
-## Nominations
-<br>
-
-
-#### ETAPS EASST Award
-
-Every year, the **ETAPS EASST Award** is presented to the best ETAPS paper related to the systematic and rigorous engineering of software and systems, or more generally to the scope of the association.
-
-#### Nomination Process
-
-- Each programme committee of ETAPS (CC, ESOP, FASE, FOSSACS, TACAS) is eligible to nominate up to two papers among their respective accepted papers.
-- The PC chairs are required to provide for each nomination:<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;The submitted paper<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;The review reports<br>
-  &nbsp;&nbsp;&nbsp;&nbsp; A few lines explaining the reasons for the nomination<br>
-- The nomination deadline is one week after the ETAPS paper acceptance notification.
-- The same paper may be nominated for several awards (also EATCS or EAPLS award).
-- The EASST Board member in charge of the ETAPS EASST Award organizes the selection of the best paper by the members of the EASST Board.
-
-#### Award Presentation
-
-- The award is presented to the winning author(s) during the ETAPS banquet.
-- Extended abstracts (up to 4 pages) of the winning paper and all the nominated papers are published in the first EASST Newsletter that follows the ETAPS conference.
-- The PC Chair is responsible for delivering the nominated abstracts in a timely manner.
-
-#### Contact Information
-
-- EASST Award Manager: Maura Cerioli ()
-- EASST Board member in charge of the ETAPS EASST Award: Maura Cerioli ()

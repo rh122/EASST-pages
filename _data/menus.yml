@@ -1,25 +1,24 @@
 main:
   - name: "Home"
     url: "/"
-  - name: "EASST Boards"
-    url: "/boards"
-    weight: 1
-  - name: "Statues"
-    url: "/statues/"
-    weight: 2
- 
-  - name: "Fase"
-    url: "/fase/"
-    weight: 4
-  - name: "Contact"
-    url: "/contact/"
-    weight: 5
   - name: "Awards"
     url: "/awards/"
-    weight: 6
-    subitems:
-    - name: "Grid"
-      url: "/"
+    weight: 1
+  - name: "EASST Boards"
+    url: "/boards"
+    weight: 2
+  - name: "Statues"
+    url: "/statues/"
+    weight: 3
+ 
+  # - name: "Fase"
+  #   url: "/fase/"
+  #   weight: 4
+  - name: "Contact"
+    url: "/contact/"
+    weight: 4
+ 
+  
 
 footer:
   - name: "Home"
