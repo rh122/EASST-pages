@@ -49,6 +49,13 @@ layout: awards
 2022
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ezio Bartocci, Thomas Ferrère, Thomas Henzinger, Dejan Nickovic and Ana     Oliveira Da Costa: Information-flow Interfaces
+
+2023
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pantazis Deligiannis, Aditya Senthilnathan, Fahad Nayyar,
+Chris Lovett and Akash Lal: Industrial-Strength Controlled Concurrency
+Testing for C# Programs with Coyote
+
 <br>
 <br>
 
