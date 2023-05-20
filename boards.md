@@ -4,32 +4,9 @@ layout  : default
 
 
 ---
-<b> Organs of the Society </b>
-<div style="overflow-x:auto;">
-<table>
-  <tr>
-    <th>Position</th>
-    <th>Name</th>
-    <th>Email</th>
-  </tr>
-  <tr>
-    <td>President</td>
-    <td>Reiko Heckel</td>
-    <td>rei...@mcs.le.ac.uk</td>
-  </tr>
-  <tr>
-    <td>Vice-President</td>
-    <td>Tiziana Margaria</td>
-    <td>marg...@cs.uni-potsdam.de</td>
-  </tr>
-  <tr>
-    <td>Treasurer</td>
-    <td>Claudia Ermel</td>
-    <td>clau...@tu-berlin.de</td>
-  </tr>
-  </table>
 
-   <b> EASST Board </b>
+
+## EASST Board 
 
   <table>
   <tr>
@@ -37,47 +14,46 @@ layout  : default
     <th>Name</th>
     <th>Email</th>
   </tr>
-   <tr>
-    <td>President</td>
-    <td>Reiko Heckel</td>
-    <td>rei...@mcs.le.ac.uk</td>
-  </tr>
-  <tr>
-    <td>Vice-President</td>
-    <td>Tiziana Margaria</td>
-    <td>marg...@cs.uni-potsdam.de</td>
-  </tr>
-  <tr>
-    <td>Treasurer</td>
-    <td>Claudia Ermel</td>
-    <td>clau...@tu-berlin.de</td>
-  </tr>
-   <tr>
-    <td>Secretary and Newsletter Editor</td>
-    <td>Julia Padberg</td>
-    <td>padb...@informatik.haw-hamburg.de</td>
-  </tr>
-
-  
-  <tr>
-    <td></td>
-    <td>Marie-Claude Gaudel</td>
-    <td>Mari...@lri.fi</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Susanne Graf</td>
-    <td>susa...@imag.fr</td>
-  </tr>
-  <tr>
-    <td>ETAPS-Award Committee</td>
-    <td>Maura Cerioli</td>
-    <td>ceri...@disi.unige.it</td>
-  </tr>
+ <tr>
+  <td>President</td>
+  <td>Reiko Heckel</td>
+  <td><a href="mailto:rh122@leicester.ac.uk">rh122@leicester.ac.uk</a></td>
+</tr>
+<tr>
+  <td>Vice-President</td>
+  <td>Tiziana Margaria</td>
+  <td><a href="mailto:Tiziana.Margaria@ul.ie">Tiziana.Margaria@ul.ie</a></td>
+</tr>
+<tr>
+  <td>Treasurer</td>
+  <td>Claudia Ermel</td>
+  <td><a href="mailto:claudia.ermel@tu-berlin.de">claudia.ermel@tu-berlin.de</a></td>
+</tr>
+<tr>
+  <td>Secretary and Newsletter Editor</td>
+  <td>Julia Padberg</td>
+  <td><a href="mailto:julia.padberg@haw-hamburg.de">julia.padberg@haw-hamburg.de</a></td>
+</tr>
+<tr>
+  <td></td>
+  <td>Marie-Claude Gaudel</td>
+  <td><a href="mailto:Marie-Claude.Gaudel@lri.fr">Marie-Claude.Gaudel@lri.fr</a></td>
+</tr>
+<tr>
+  <td></td>
+  <td>Susanne Graf</td>
+  <td><a href="mailto:Susanne.Graf@imag.fr">Susanne.Graf@imag.fr</a></td>
+</tr>
+<tr>
+  <td>ETAPS-Award Committee</td>
+  <td>Maura Cerioli</td>
+  <td><a href="mailto:maura.cerioli@unige.it">maura.cerioli@unige.it</a></td>
+</tr>
   <tr>
     <td>Editor of EASST Communications</td>
     <td>Gabriele Taentzer</td>
-    <td>taen...@Mathematik.Uni-Marburg.de</td>
+  <td><a href="mailto:taentzer@mathematik.uni-marburg.de">taentzer@mathematik.uni-marburg.de</a></td>
+
   </tr>
 </table> 
 <style>

@@ -7,34 +7,40 @@ intro_image: "images/illustrations/award.jpg"
 layout: awards
 ---
 #### Awards for the Best Software Science Papers presented at the International Conferences on Graph Transformation (ICGT)
+<style>
+  .ident{
+    margin-left:19px;
+    margin-top:17px;
+    margin-bottom:18px;
+  }
+</style>
 
+- #### 2014
 
-2014:
+<div class='ident'> Anthony Anjorin, Erhan Leblebici, Andy Schürr, and Gabriele Taentzer: <i>A Static Analysis of Non-Confluent Triple Graph Grammars for Efficient Model Transformation</i></div>
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anthony Anjorin, Erhan Leblebici, Andy Schürr, and Gabriele Taentzer: *A Static Analysis of Non-Confluent Triple Graph Grammars for Efficient Model Transformation*
+- ####  2015
 
-2015:
+ <div class='ident'> Erhan Leblebici, Anthony Anjorin, and Andy Schürr: <i>Tool Support for Multi-amalgamated Triple Graph Grammars</i></div>
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Erhan Leblebici, Anthony Anjorin, and Andy Schürr: *Tool Support for Multi-amalgamated Triple Graph Grammars*
+- ####  2016
 
-2016:
+ <div class='ident'> Daniel Strüber and Stefan Schulz: <i>A Tool Environment for Managing Families of Model Transformation Rules</i></div>
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Daniel Strüber and Stefan Schulz: *A Tool Environment for Managing Families of Model Transformation Rules*
+- ####  2019
 
-2019:
+ <div class='ident'> Nebras Nassar, Jens Kosiol, Thorsten Arendt, and Gabriele Taentzer: <i>Constructing Optimized Validity-Preserving Application Conditions for Graph Transformation Rules</i></div>
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nebras Nassar, Jens Kosiol, Thorsten Arendt, and Gabriele Taentzer: *Constructing Optimized Validity-Preserving Application Conditions for Graph Transformation Rules*
+- ####  2020
 
-2020:
+ <div class='ident'>Jens Kosiol, Daniel Strüber, Gabriele Taentzer, and Steffen Zschaler: <i>Graph Consistency as a Graduated Property: Consistency-Sustaining and Improving Graph Transformations</i></div>
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jens Kosiol, Daniel Strüber, Gabriele Taentzer, and Steffen Zschaler: *Graph Consistency as a Graduated Property: Consistency-Sustaining and Improving Graph Transformations*
+- ####  2021
 
-2021:
+<div class='ident'> Frank Drewes, Berthold Hoffmann, and Mark Minas: <i>Rule-Based Top-Down Parsing for Acyclic Contextual Hyperedge Replacement Grammars</i>
+- Jens Weber: <i>GrapePress - A Computational Notebook for Graph Transformations</i> (best tool paper)</div>
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frank Drewes, Berthold Hoffmann, and Mark Minas: *Rule-Based Top-Down Parsing for Acyclic Contextual Hyperedge Replacement Grammars*
-- Jens Weber: *GrapePress - A Computational Notebook for Graph Transformations* (best tool paper)
+- #### 2022
 
-2022:
-
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kristopher Brown, Evan Patterson, Tyler Hanks, and James Fairbanks: *Computational Category Theoretic Rewriting*
+ <div class='ident'> Kristopher Brown, Evan Patterson, Tyler Hanks, and James Fairbanks: <i>Computational Category Theoretic Rewriting</i></div>
 

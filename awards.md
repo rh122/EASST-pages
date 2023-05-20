@@ -19,7 +19,7 @@ intro_image  : "images/illustrations/award.jpg"
 <div id="bottom"></div>
 
 ## Nominations for ETAPS
-<br>
+
 
 
 #### ETAPS EASST Award
@@ -45,18 +45,15 @@ Every year, the **ETAPS EASST Award** is presented to the best ETAPS paper relat
 
 #### Contact Information
 
-- EASST Award Manager: Maura Cerioli ()
-- EASST Board member in charge of the ETAPS EASST Award: Maura Cerioli ()
+- EASST Award Manager: [Maura Cerioli](mailto:maura.cerioli@unige.it)
+
+- EASST Board member in charge of the ETAPS EASST Award: [Maura Cerioli](mailto:maura.cerioli@unige.it)
 
 
 <div id="bottom1"></div>
-<br>
-<br>
-<br>
-<br>
 
 ## Nominations For ICGT
-<br>
+
 
 To nominate an ICGT paper for the EASST, the PC chairs should consult with the programme committee and suggest a suitable paper to be awarded. The paper should be of high quality and within the scope of EASST.
 
@@ -66,5 +63,6 @@ The board will decide if these conditions are met and prepare a certificate to b
 
  
 
-Please contact Reiko Heckel  (rh122@leicester.ac.uk) with nominations or further questions
+Please contact [Reiko Heckel](mailto:rh122@leicester.ac.uk)
+ with nominations or further questions
 
