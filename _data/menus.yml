@@ -4,10 +4,10 @@ main:
   - name: "Awards"
     url: "/awards/"
     weight: 1
-  - name: "EASST Boards"
+  - name: "EASST Board"
     url: "/boards"
     weight: 2
-  - name: "Statues"
+  - name: "Statutes"
     url: "/statues/"
     weight: 3
  

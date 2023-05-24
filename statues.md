@@ -4,7 +4,13 @@ title  : Statues
 layout  : statues
 
 ---
-
+<style>
+  .ident{
+    margin-left:19px;
+    margin-top:17px;
+    margin-bottom:18px;
+  }
+</style>
 
 
 ## Name and Location of the Association
@@ -25,25 +31,28 @@ layout  : statues
  The aim of the Association is the furthering of education, in particular the dissemination of information concerning research, development, and application to the rigorous engineering of software and software intensive systems. To this end, the Association shall author and regularly publish virtual information bulletins, publish and review specialized literature, and organise and conduct ring-seminars and lectures.
 
 **2.** The aim of the statute is in particular implemented through
+<div class="ident">
+  <li> Supporting and implementing measures for education and qualification </li>
+   <li>Counselling decision makers about required activities and measures </li>
+   <li> Informing the public about the importance and the meaning of technological developments </li>
+   <li> Organising and endorsing information exchange in professional circles </li>
+  <li>Coordinating initiatives, activities, and projects via adequate measures </li>
+  <li> Organising and conducting conferences such as ETAPS and other professional meetings </li>
+  <li>Coordinating its own activities with the activities of other professional associations with the aim to establish a "European Association in Informatics". </li>
+  </div>
 
-&nbsp;&nbsp;&nbsp; Supporting and implementing measures for education and qualification<br>
-&nbsp;&nbsp;&nbsp; Counselling decision makers about required activities and measures<br>
-&nbsp;&nbsp;&nbsp; Informing the public about the importance and the meaning of technological developments<br>
-&nbsp;&nbsp;&nbsp; Organising and endorsing information exchange in professional circles<br>
-&nbsp;&nbsp;&nbsp; Coordinating initiatives, activities and projects via adequate measures<br>
-&nbsp;&nbsp;&nbsp; Organising and conducting conferences such as ETAPS and other professional meetings<br>
-&nbsp;&nbsp;&nbsp; Coordinating its own activities with the activities of other professional associations with<br> &nbsp;&nbsp;&nbsp; the aim to establish a "European Association in Informatics".<br>
 
 ## Budget and Finances
 
 **1.** The association is active without self-interest; it does not primarily pursue profitability. The funds of the Association may be used only for the accomplishment of the aims of the statute. Members do not receive any allowance from the Association’s funds.
 
 **2.** The funds necessary for the fulfilment of the association’s aims may originate from:
-
-&nbsp;&nbsp;&nbsp; Donations, other grants and revenues<br>
-&nbsp;&nbsp;&nbsp; Project grants<br>
-&nbsp;&nbsp;&nbsp; Earmarked funds<br>
-&nbsp;&nbsp;&nbsp; Membership fees and income from the association’s assets.<br>
+<div class="ident">
+ <li>Donations, other grants and revenues</li>
+<li> Project grants</li>
+ <li>Earmarked funds</li>
+ <li>Membership fees and income from the association’s assets.</li>
+</div>
 
 **3.** Nobody may benefit from expenditures that are extraneous to the aims of the association or from unreasonably high compensation.
 
@@ -64,10 +73,11 @@ The organs of the association are the Executive Board, the General Assembly and 
 ## The Executive Board
 
 **1.**  The Executive Board is composed of
-
-&nbsp;&nbsp;&nbsp;a President<br>
-&nbsp;&nbsp;&nbsp;a Vice President<br>
-&nbsp;&nbsp;&nbsp;a Treasurer<br>
+<div class="ident">
+<li>a President</li>
+<li>a Vice President</li>
+<li>a Treasurer</li>
+</div>
 
 
 who are elected by the General Assembly for three-year terms.

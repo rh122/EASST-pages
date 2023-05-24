@@ -47,7 +47,7 @@ Every year, the **ETAPS EASST Award** is presented to the best ETAPS paper relat
 
 - EASST Award Manager: [Maura Cerioli](mailto:maura.cerioli@unige.it)
 
-- EASST Board member in charge of the ETAPS EASST Award: [Maura Cerioli](mailto:maura.cerioli@unige.it)
+
 
 
 <div id="bottom1"></div>
