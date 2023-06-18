@@ -43,6 +43,10 @@ sass:
 plugins:
   - jekyll-environment-variables
 
+  
+include:
+  - custom-assets/
+
 exclude:
   - Gemfile
   - Gemfile.lock

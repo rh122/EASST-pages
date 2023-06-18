@@ -17,6 +17,10 @@ main:
   - name: "Contact"
     url: "/contact/"
     weight: 4
+  - name: "Get Started"
+    url: "/getstarted/"
+    weight: 5
+  
  
   
 

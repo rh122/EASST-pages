@@ -1,0 +1,47 @@
+---
+title: Jekyll Serif - Jekyll Small Business Theme
+layout: default
+bodyClass: page-home
+---
+
+<script src="{{ '/custom-assets/api.js' | relative_url }}"></script>
+<head>
+ 
+<div class="intro">
+  <div class="container">
+    <div class="row justify-content-start">
+      <div class="col-12 col-md-9 col-lg-9 order-2 order-md-1">
+        {{ content }}
+        {% if site.homepage.show_call_box %}
+          {% include call.html show_button=true %}
+        {% endif %}
+      </div>
+    
+    </div>
+  </div>
+</div>
+<div id="posts-container"></div>
+
+<style>
+    .post-timestamp {
+      margin-left: auto;
+      color: #999;
+      font-size: 12px;
+    }
+    .username {
+  font-style: italic;
+  color: #666;
+  text-decoration: none;
+  /* Add any other styles you want for the username */
+}
+.post {
+  max-width: 600px;
+  margin: 0 auto; /* Center the post container horizontally */
+  /* Add any other styles you want for the post container */
+}
+
+
+  </style>
+  
+
+
