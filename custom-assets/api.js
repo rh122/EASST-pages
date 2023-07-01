@@ -1,5 +1,5 @@
 const apiUrl = 'https://mastodonapp.uk/api/v1/timelines/tag/';
-const tag = 'EASST';
+const tag = 'TheEASST';
 const limit = 10;
 
 async function getPostsByTag() {

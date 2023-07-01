@@ -1,25 +1,26 @@
 main:
   - name: "Home"
     url: "/"
+  - name: "News"
+    url: "/news/"
+    weight: 1
   - name: "Awards"
     url: "/awards/"
-    weight: 1
+    weight: 2
   - name: "EASST Board"
     url: "/boards"
-    weight: 2
+    weight: 3
   - name: "Statutes"
     url: "/statues/"
-    weight: 3
+    weight: 4
  
   # - name: "Fase"
   #   url: "/fase/"
   #   weight: 4
   - name: "Contact"
     url: "/contact/"
-    weight: 4
-  - name: "Get Started"
-    url: "/getstarted/"
     weight: 5
+ 
   
  
   
