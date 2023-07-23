@@ -10,7 +10,7 @@ main:
   - name: "EASST Board"
     url: "/boards"
     weight: 3
-  - name: "Statutes"
+  - name: "Statute"
     url: "/statues/"
     weight: 4
  
