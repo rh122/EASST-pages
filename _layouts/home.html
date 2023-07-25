@@ -5,59 +5,12 @@ bodyClass: page-home
 ---
 
 <style>
-.intro {
-  background-color: #f9f9f9; /* Light gray background */
-  padding: 80px 0; /* Adjust the padding to create appropriate spacing */
-}
 
-.intro .container {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  flex-wrap: wrap-reverse; /* Reverse the image and text order on smaller screens */
-}
 
-.intro .col-12 {
-  flex: 1 1 50%; /* Take 50% of the width to evenly split the columns */
-  max-width: 50%;
-}
 
-.intro .intro-image {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 350px; /* Adjust the height of the image section */
-  overflow: hidden;
-  border-radius: 8px;
-}
-
-.intro .intro-image img {
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: cover;
-}
-
-.intro .col-12 p {
-  font-size: 18px;
-  line-height: 1.6;
-  color: #555;
-}
-
-.intro .col-12 h2 {
-  font-size: 36px;
-  font-weight: bold;
-  color: #333;
-  margin-bottom: 20px;
-}
 
 /* Optional: Add hover effect for the image */
-.intro .intro-image:hover {
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
-}
-.container {
-  position: relative;
-  z-index: 1;
-}
+
 
 .feature-container {
   margin-bottom: 20px;
@@ -121,20 +74,19 @@ bodyClass: page-home
 
 <div class="intro">
   <div class="container">
-    <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
-      <h2>{{ page.title }}</h2>
-      {{ content }}
-      {% if site.homepage.show_call_box %}
-        {% include call.html show_button=true %}
+    <div class="row justify-content-start">
+      <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
+        {{ content }}
+        {% if site.homepage.show_call_box %}
+          {% include call.html show_button=true %}
+        {% endif %}
+      </div>
+      {% if page.intro_image %}
+      <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
+        <img alt={{ page.title }} class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relURL }}" />
+      </div>
       {% endif %}
     </div>
-    {% if page.intro_image %}
-    <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
-      <div class="intro-image">
-        <img alt="{{ page.title }}" src="{{ page.intro_image | relative_url }}" />
-      </div>
-    </div>
-    {% endif %}
   </div>
 </div>
 

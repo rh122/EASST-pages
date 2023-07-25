@@ -1,3 +1,10 @@
+/* CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* Change this to 'content-box' if needed */
+}
+
 .header {
   color: $primary;
   background-color: #ffffff;
@@ -7,21 +14,33 @@
   // box-shadow: 0 1px 15px rgba(50, 50, 93, 0.2);
   border-bottom: 1px solid $white-offset;
   padding: 10px 0px;
-  .container {
+
+  .con {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0; /* Set margin to 0 to remove any default margins */
+    width: 1300px; /* Increase the width to 1200px or any desired value */
+    /* box-sizing: content-box; // Uncomment this if needed */
   }
+
   &.header-absolute {
     position: absolute;
     z-index: 10;
     width: 100%;
   }
 }
+
 .lock-scroll {
   .header {
     &.header-absolute {
       position: static;
     }
   }
+}
+
+.main-menu {
+  /* Adjust this value as needed to move the main-menu block to the right */
+  /* For example, you can use 'margin-left: auto;' to push it to the right */
+  /* Or use 'justify-content: flex-end;' on the .con to align it to the right */
 }
