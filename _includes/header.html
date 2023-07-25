@@ -7,9 +7,21 @@
     <div class="logo-mobile">
       <a href="{{ site.baseurl }}"><img alt="{{ site.title }}" src="{{ site.logo.mobile | relative_url }}" /></a>
     </div>
-    <b style="color:#2a52be;font-size:medium;
-   margin-right: 5rem;;">The European Association of Software Science and Technology</b>
+    <b  class ="easst" style="color:#2a52be;font-size:medium;
+   ">The European Association of Software Science and Technology</b>
     {% include main-menu.html %}
     {% include hamburger.html %}
   </div>
 </div>
+<style>
+ 
+  @media only screen and (min-width: 1024px) and (max-width: 1441px) {
+  /* Put your CSS rules for laptops here */
+  /* For example: */
+  .easst{
+    margin-right: 10rem;
+  }
+  
+  /* Add other laptop-specific styles here */
+}
+</style>
