@@ -20,9 +20,16 @@ bodyClass: page-home
     </div>
   </div>
 </div>
-<div id="posts-container"></div>
+<div id="posts-container" style="overflow: auto;"></div>
+
+
 
 <style>
+  #posts-container {
+  max-height: 400px; /* Set a maximum height for the container */
+  overflow: auto; /* Add a scrollbar when content overflows */
+}
+
     .post-timestamp {
       margin-left: auto;
       color: #999;
