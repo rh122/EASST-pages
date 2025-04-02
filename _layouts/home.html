@@ -142,8 +142,17 @@ bodyClass: page-home
       <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
         <div class="intro-image-container">
           <img alt="Slide 1" class="intro-slide active" src="{{ page.intro_image | relURL }}" />
-          <img alt="Slide 3" class="intro-slide" src="{{ site.baseurl }}/images/illustrations/europe5.jpg" />          
+          <img alt="Slide 2" class="intro-slide" src="{{ site.baseurl }}/images/illustrations/europe1.jpg" />
+          <img alt="Slide 3" class="intro-slide" src="{{ site.baseurl }}/images/illustrations/europe5.jpg" />
+          <img alt="Slide 4" class="intro-slide" src="{{ site.baseurl }}/images/illustrations/europe6.jpg" />
+          
+     
         </div>
+        <div class="arrow-buttons">
+          <button class="arrow-button prev-button" onclick="prevSlide()">&#10094;</button>
+          <button class="arrow-button next-button" onclick="nextSlide()">&#10095;</button>
+          </div>
+      </div>
       {% endif %}
     </div>
   </div>
