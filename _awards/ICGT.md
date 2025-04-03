@@ -44,3 +44,11 @@ layout: awards
 
  <div class='ident'> Kristopher Brown, Evan Patterson, Tyler Hanks, and James Fairbanks: <i>Computational Category Theoretic Rewriting</i></div>
 
+- #### 2023
+
+ <div class='ident'> Leen Lambers, Lucas Sakizloglou, Osama Al-Wardi and Taisiya Khakharova: <i>Taint Analysis for Graph APIs Focusing on Broken Access Control</i></div>
+
+- #### 2024
+
+ <div class='ident'> Tim Kräuter, Adrian Rutle, Harald König and Yngve Lamo:  <i> Formalization and Analysis of BPMN Using Graph Transformation Systems</i></div>
+
