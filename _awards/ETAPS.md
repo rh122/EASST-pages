@@ -28,9 +28,9 @@ Mirco Giacobbe, CÄƒlin C. Guet, Ashutosh Gupta, Thomas A. Henzinger, Tiago PaixÃ
 
 - ####  2016
 
-Marcus Gerhold and Marielle Stoelinga: <i> Model-Based Testing of Probabilistic Systems</i> 
+Marcus Gerhold and Marielle Stoelinga: <i> Model-Based Testing of Probabilistic Systems</i> (TAP)
 
-Veronique Cortier, Antoine Dallon and Stephanie Delaune: <i> Bounding the Number of Agents, for Equivalence too</i> (POST 2016) 
+Veronique Cortier, Antoine Dallon and Stephanie Delaune: <i> Bounding the Number of Agents, for Equivalence too</i> (POST) 
 
 - ####   2017
 
