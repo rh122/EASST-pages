@@ -1,13 +1,13 @@
 ---
 title: "ETAPS"
-date: 2018-11-18T12:33:46+10:00
+date: 2025-04-03
 featured: true
 weight: 1
 intro_image: "images/illustrations/award.jpg"
 layout: awards
 ---
 
-### Awards for the Best Software Science Papers presented at the European Joint Conferences on Theory and Practice of Software (ETAPS)
+### Best Software Science Papers at the European Joint Conferences on Theory and Practice of Software (ETAPS)
 
 
 <style>
