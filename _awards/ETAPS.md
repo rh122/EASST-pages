@@ -63,7 +63,7 @@ Testing for C# Programs with Coyote</i >(TACAS 2023)</div>
 
 - ####   2024
 
-Nils Husung, Clemens Dubslaff, Holger Hermanns, and Maximilian Alexander Köhl. OxiDD: A Safe, Concurrent, Modular, and Performant Decision Diagram Framework in Rust (TACAS 2023)
+Nils Husung, Clemens Dubslaff, Holger Hermanns, and Maximilian Alexander Köhl. OxiDD: <i>A Safe, Concurrent, Modular, and Performant Decision Diagram Framework in Rust</i> (TACAS 2023)
 
 <br>
 <br>
